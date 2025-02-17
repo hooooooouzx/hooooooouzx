@@ -96,6 +96,6 @@ Senior Full-stack developer with 7 years of experience in building scalable and 
 - 🌱 Master cloud-native technologies
 - 💡 Interested in high-performance systems
 
-## 📫 My Life
+## 🎨 My Life
 
 Looking to the future, looking forward to becoming more excellent.
