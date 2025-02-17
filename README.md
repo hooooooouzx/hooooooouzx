@@ -34,7 +34,7 @@ Senior Full-stack developer with 7 years of experience in building scalable and 
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ### High Performance & Architecture
-![Microservices](https://img.shields.io/badge/-Microservices-1572B6?style=flat-square&logo=dotnet&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-1572B6?style=flat-square&logo=spring&logoColor=white)
 ![Concurrent Programming](https://img.shields.io/badge/-Concurrent_Programming-FF6B6B?style=flat-square&logo=java&logoColor=white)
 ![High Performance](https://img.shields.io/badge/-High_Performance-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Thread Management](https://img.shields.io/badge/-Thread_Management-007396?style=flat-square&logo=java&logoColor=white)
