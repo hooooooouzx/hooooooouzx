@@ -1,8 +1,11 @@
 # Hi there 👋 I'm Ethan
 
+Working full-time now. Always happy to connect and discuss tech!
+
 Senior Full-stack developer with 7 years of experience in building scalable and high-performance applications. Passionate about clean code, system architecture, and performance optimization.
 
 ### 🎯 Professional Summary
+
 - 💪 7+ years of full-stack development experience
 - 🏗️ Expertise in building scalable microservices
 - 🚀 Strong background in high-performance systems
