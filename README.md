@@ -68,8 +68,6 @@ Senior Full-stack developer with 7 years of experience in building scalable and 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hooooooouzx&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hooooooouzx&layout=compact&theme=radical)
-
 ## 🌟 Featured Projects
 
 - 🚀 Working on full-stack applications
