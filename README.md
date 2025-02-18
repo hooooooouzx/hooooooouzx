@@ -2,16 +2,6 @@
 
 Working full-time now. Always happy to connect and discuss tech!
 
-Senior Full-stack developer with 7 years of experience in building scalable and high-performance applications. Passionate about clean code, system architecture, and performance optimization.
-
-### 🎯 Professional Summary
-
-- 💪 7+ years of full-stack development experience
-- 🏗️ Expertise in building scalable microservices
-- 🚀 Strong background in high-performance systems
-- 🌐 Proficient in both frontend and backend technologies
-- 📈 Experience with high-concurrency applications
-
 ## 🛠 Tech Stack
 
 ### Language Skills
@@ -95,12 +85,6 @@ Senior Full-stack developer with 7 years of experience in building scalable and 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hooooooouzx&show_icons=true&theme=radical)
-
-## 🌟 Featured Projects
-
-- 🚀 Working on full-stack applications
-- 🌱 Master cloud-native technologies
-- 💡 Interested in high-performance systems
 
 ## 🎨 My Life
 
