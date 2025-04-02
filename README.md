@@ -82,10 +82,6 @@ Working full-time now. Always happy to connect and discuss tech!
 ![GlusterFS](https://img.shields.io/badge/-GlusterFS-E44332?style=flat-square&logo=red-hat&logoColor=white)
 ![NFS](https://img.shields.io/badge/-NFS-000000?style=flat-square&logo=linux&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hooooooouzx&show_icons=true&theme=radical)
-
 ## 🎨 My Life
 
 Looking to the future, looking forward to becoming more excellent.
