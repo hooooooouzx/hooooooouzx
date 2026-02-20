@@ -4,9 +4,6 @@ Working full-time now. Always happy to connect and discuss tech!
 
 ## 🛠 Tech Stack
 
-### Language Skills
-![English](https://img.shields.io/badge/-English-FF4B4B?style=flat-square&logo=duolingo&logoColor=white) Daily practice & continuous improvement
-
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
